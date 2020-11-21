@@ -20,7 +20,7 @@ A little professional skidder from Italy. 👨🏻‍💻
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.telegram.me/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.telegram.me/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
