@@ -25,7 +25,7 @@ A little professional skidder from Italy. 👨🏻‍💻
 <a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
-![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true)
+![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
 
 ---
 
