@@ -4,11 +4,8 @@
 
 A little professional skidder from Italy. 👨🏻‍💻 
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
-
 ### 💼  Goals until i die: 
 * Live
-
  
  **Languages:**
 <p align="left">
@@ -26,12 +23,5 @@ A little professional skidder from Italy. 👨🏻‍💻
 </p>
 
 ![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
-
----
-
-### Credit to 
--  Mandragora Estudio **for GIF**. 
-
-https://dribbble.com/shots/9344637-working-hard
 
 ⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
