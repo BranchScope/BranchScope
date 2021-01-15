@@ -1,8 +1,6 @@
 # Hello there 👋 
 
-### I'm BranchScope, 
-
-A little professional skidder from Italy. 👨🏻‍💻 
+#### I'm BranchScope, a little professional skidder from Italy. 👨🏻‍💻 
 
 ### 💼  Goals until i die: 
 * Live
@@ -17,9 +15,11 @@ A little professional skidder from Italy. 👨🏻‍💻
 
 **Connect with me:**
 <p align="left">
-<a href="https://www.telegram.me/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kushal.bhanot" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="bhanot_kushal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.telegram.me/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/14426239/branchscope?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+ <a href="https://www.reddit.com/user/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 ![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
