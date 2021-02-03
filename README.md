@@ -1,6 +1,6 @@
 # Hello there 👋 
 
-#### I'm BranchScope, a little professional skidder from Italy. 👨🏻‍💻 
+*I'm BranchScope, a little professional skidder from Italy.* 👨🏻‍💻
 
 ### 💼  Goals until i die: 
 * Live
