@@ -1,9 +1,6 @@
 # Hello there 👋 
 
-*I'm BranchScope, a little professional skidder from Italy.* 👨🏻‍💻
-
-### 💼  Goals until i die: 
-* Live
+*I'm BranchScope, a 16yo guy from Italy.* 👨🏻‍💻
  
 ### Programming languages:
 <p align="left">
