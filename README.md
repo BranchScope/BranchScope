@@ -4,11 +4,17 @@
  
 ### Programming languages:
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="PHP" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
-   </p>
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="assets/python.svg" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" />&nbsp;
+</p>
+
+### Skills and stuffs i suggest:
+<p align="left">
+  <img title="Hadoop" alt="Hadoop" src="assets/git.svg" width="70" height="40" />
+  <img title="Hadoop" alt="Hadoop" src="assets/linux.svg" width="70" height="40" />
+</p>
 
 ### Connect with me:
 <p align="left">
@@ -20,5 +26,3 @@
 </p>
 
 ![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
-
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
