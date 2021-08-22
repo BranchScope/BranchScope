@@ -27,4 +27,5 @@
 </p>
 
 ![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
+
 ![](https://komarev.com/ghpvc/?username=branchscope)
