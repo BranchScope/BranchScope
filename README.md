@@ -4,7 +4,7 @@
  
 ### Programming languages:
 <p align="left">
-  <img src="assets/php.svg" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="assets/php.svg" alt="PHP" width="70" height="40"/>&nbsp;
   <img src="assets/python.svg" alt="Python" width="40" height="40"/>&nbsp;
   <img src="assets/nodejs.svg" alt="Node.js" width="40" height="40"/>&nbsp;
   <img src="assets/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
@@ -12,8 +12,10 @@
 
 ### Skills and stuffs i like:
 <p align="left">
-  <img title="Hadoop" alt="Hadoop" src="assets/git.svg" width="70" height="40" />
-  <img title="Hadoop" alt="Hadoop" src="assets/linux.svg" width="70" height="40" />
+  <img title="Git" alt="Git" src="assets/git.svg" width="70" height="40" />
+  <img title="Linux" alt="Linux" src="assets/linux.svg" width="40" height="40" />
+  <img title="Go" alt="Go" src="assets/go.svg" width="70" height="40" />
+  <img title="Nim" alt="Nim" src="assets/nim.svg" width="70" height="40" />
 </p>
 
 ### Connect with me:
@@ -21,7 +23,7 @@
 <a href="https://t.me/BranchScope/" target="blank"><img align="center" src="assets/telegram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://instagram.com/BranchScope/" target="blank"><img align="center" src="assets/instagram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="assets/twitter.svg" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UCnsu1xVwDu3zTOWiW1egopw" target="blank"><img align="center" src="assets/youtube.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/UCnsu1xVwDu3zTOWiW1egopw" target="blank"><img align="center" src="assets/youtube.svg" height="70" width="40" /></a> &nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/14426239/branchscope?tab=profile" target="blank"><img align="center" src="assets/stackoverflow.svg" height="40" width="40" /></a> &nbsp;&nbsp;
  <a href="https://reddit.com/user/BranchScope" target="blank"><img align="center" src="assets/reddit.svg" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
