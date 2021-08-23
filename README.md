@@ -3,7 +3,6 @@
 *I'm BranchScope, a 16yo guy from Italy.* 👨🏻‍💻
  
 ### Programming languages:
-*Programming languages i'm learning and i use everyday.*
 <p align="left">
   <a href="https://github.com/topics/php" target="blank"><img title="PHP" alt="PHP" src="assets/php.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://github.com/topics/python" target="blank"><img title="Python" alt="Python" src="assets/python.svg" alt="Python" width="40" height="40"/></a>
@@ -14,7 +13,6 @@
 </p>
 
 ### Interests:
-*Topics that I care about and organizations, people and projects that I recommend.*
 <p align="left">
   <a href="https://github.com/topics/git" target="blank"><img title="Git" alt="Git" src="assets/git.svg" width="70" height="40" /></a>
   <a href="https://github.com/topics/linux" target="blank"><img title="Linux" alt="Linux" src="assets/linux.svg" width="40" height="40" /></a>
