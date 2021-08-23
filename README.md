@@ -4,21 +4,37 @@
  
 ### Programming languages:
 <p align="left">
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/php/php_48x48.png" alt="PHP" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript_48x48.png" alt="JavaScript" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png" alt="C++" width="40" height="40" /></code>&nbsp;
-   </p>
+  <a href="https://github.com/topics/php" target="blank"><img title="PHP" alt="PHP" src="assets/php.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://github.com/topics/python" target="blank"><img title="Python" alt="Python" src="assets/python.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://github.com/topics/nodejs" target="blank"><img title="Node.js" alt="Node.js" src="assets/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://github.com/topics/cpp" target="blank"><img title="C++" alt="C++" src="assets/cpp.svg" alt="C++" width="40" height="40" /></a>
+  <a href="https://github.com/topics/go" target="blank"><img title="Go" alt="Go" src="assets/go.svg" width="70" height="40" /></a>
+  <a href="https://github.com/topics/nim" target="blank"><img title="Nim" alt="Nim" src="assets/nim.svg" width="70" height="40" /></a>
+</p>
+
+### Interests:
+<p align="left">
+  <a href="https://github.com/topics/git" target="blank"><img title="Git" alt="Git" src="assets/git.svg" width="70" height="40" /></a>
+  <a href="https://github.com/topics/linux" target="blank"><img title="Linux" alt="Linux" src="assets/linux.svg" width="40" height="40" /></a>
+  <a href="https://github.com/topics/postgresql" target="blank"><img title="PostgreSQL" alt="PostgreSQL" src="assets/postgresql.svg" width="40" height="40" /></a>
+  <a href="https://github.com/topics/arduino" target="blank"><img title="Arduino" alt="Arduino" src="assets/arduino.svg" width="70" height="40" /></a>
+  <a href="https://mozilla.org/firefox" target="blank"><img title="Firefox" alt="Firefox" src="assets/firefox.svg" width="40" height="40" /></a>
+  <a href="https://amphp.org" target="blank"><img title="AmPHP" alt="AmPHP" src="assets/amphp.svg" width="40" height="40" /></a>
+  <a href="https://dogecoin.com/" target="blank"><img title="DogeCoin" alt="DogeCoin" src="assets/dogecoin.svg" width="40" height="40" /></a>
+  <a href="https://digitalocean.com" target="blank"><img title="DigitalOcean" alt="DigitalOcean" src="assets/digitalocean.svg" width="40" height="40" /></a>
+  <a href="https://discord.com" target="blank"><img title="Discord" alt="Discord" src="assets/discord.svg" width="40" height="40" /></a>
+</p>
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.telegram.me/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/BranchScope/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="40" width="40" /></a> &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/14426239/branchscope?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" height="40" width="40" /></a> &nbsp;&nbsp;
- <a href="https://www.reddit.com/user/BranchScope" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://t.me/BranchScope" target="blank"><img align="center" src="assets/telegram.svg" height="40" width="40" /></a>
+  <a href="https://instagram.com/BranchScope" target="blank"><img align="center" src="assets/instagram.svg" height="40" width="40" /></a>
+  <a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="assets/twitter.svg" height="40" width="40" /></a>
+  <a href="https://www.youtube.com/channel/UCnsu1xVwDu3zTOWiW1egopw" target="blank"><img align="center" src="assets/youtube.svg" height="70" width="40" /></a>
+  <a href="https://stackoverflow.com/users/14426239/branchscope?tab=profile" target="blank"><img align="center" src="assets/stackoverflow.svg" height="40" width="40" /></a>
+  <a href="https://reddit.com/user/BranchScope" target="blank"><img align="center" src="assets/reddit.svg" height="40" width="40" /></a>
 </p>
 
 ![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
 
-⭐️ From [VatanaChhorn](https://github.com/Vatanachhorn)
+![](https://komarev.com/ghpvc/?username=branchscope)
