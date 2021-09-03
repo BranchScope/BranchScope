@@ -35,6 +35,7 @@
   <a href="https://reddit.com/user/BranchScope" target="blank"><img align="center" src="assets/reddit.svg" height="40" width="40" /></a>
 </p>
 
-![BranchScope's Github stats](https://github-readme-stats.vercel.app/api?username=BranchScope&show_icons=true&count_private=true&theme=react)
+![](https://github.com/BranchScope/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/BranchScope/github-stats/blob/master/generated/languages.svg)
 
 ![](https://komarev.com/ghpvc/?username=branchscope)
