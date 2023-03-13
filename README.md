@@ -1,9 +1,11 @@
+<div align="center">
+
 # Hello there 👋 
 
 *I'm BranchScope, a 17yo guy from Italy.* 👨🏻‍💻
- 
+
 ### Programming languages:
-<p align="left">
+<p>
   <a href="https://github.com/topics/php" target="blank"><img title="PHP" alt="PHP" src="assets/php.svg" alt="PHP" width="40" height="40"/></a>
   <a href="https://github.com/topics/python" target="blank"><img title="Python" alt="Python" src="assets/python.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://github.com/topics/nodejs" target="blank"><img title="Node.js" alt="Node.js" src="assets/nodejs.svg" alt="Node.js" width="40" height="40"/></a>
@@ -13,7 +15,7 @@
 </p>
 
 ### Interests:
-<p align="left">
+<p>
   <a href="https://github.com/topics/git" target="blank"><img title="Git" alt="Git" src="assets/git.svg" width="70" height="40" /></a>
   <a href="https://github.com/topics/linux" target="blank"><img title="Linux" alt="Linux" src="assets/linux.svg" width="40" height="40" /></a>
   <a href="https://github.com/topics/postgresql" target="blank"><img title="PostgreSQL" alt="PostgreSQL" src="assets/postgresql.svg" width="40" height="40" /></a>
@@ -26,7 +28,7 @@
 </p>
 
 ### Connect with me:
-<p align="left">
+<p>
   <a href="https://t.me/BranchScope" target="blank"><img align="center" src="assets/telegram.svg" height="40" width="40" /></a>
   <a href="https://instagram.com/BranchScope" target="blank"><img align="center" src="assets/instagram.svg" height="40" width="40" /></a>
   <a href="https://twitter.com/BranchScope" target="blank"><img align="center" src="assets/twitter.svg" height="40" width="40" /></a>
@@ -34,8 +36,10 @@
   <a href="https://stackoverflow.com/users/14426239/branchscope?tab=profile" target="blank"><img align="center" src="assets/stackoverflow.svg" height="40" width="40" /></a>
   <a href="https://reddit.com/user/BranchScope" target="blank"><img align="center" src="assets/reddit.svg" height="40" width="40" /></a>
 </p>
-
+ 
 ![](https://github.com/BranchScope/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/BranchScope/github-stats/blob/master/generated/languages.svg)
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=branchscope&hide_border=true" />
 
 ![](https://komarev.com/ghpvc/?username=branchscope)
+</div>
