@@ -2,7 +2,7 @@
 
 # Hello there 👋 
 
-*I'm BranchScope, a 17yo guy from Italy.* 👨🏻‍💻
+*I'm BranchScope, a 18yo guy from Italy.* 👨🏻‍💻
 
 ### Programming languages:
 <p>
