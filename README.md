@@ -2,7 +2,7 @@
 
 # Hello there 👋 
 
-*I'm BranchScope, a 18yo guy from Italy.* 👨🏻‍💻
+*I'm BranchScope, a 19yo guy from Italy.* 👨🏻‍💻
 
 ### Connect with me:
 <p>
